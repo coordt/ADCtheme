@@ -24,9 +24,9 @@ Edit the ``conf.py`` file and make the following setting: ::
 Screen Shots
 ------------
 
-.. image:: http://github.com/coordt/ADCtheme/blob/master/static/scrn1.png
+.. image:: http://github.com/coordt/ADCtheme/raw/master/static/scrn1.png
 
-.. image:: http://github.com/coordt/ADCtheme/blob/master/static/scrn2.png
+.. image:: http://github.com/coordt/ADCtheme/raw/master/static/scrn2.png
 
 To Do
 -----
