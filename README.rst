@@ -20,3 +20,16 @@ Making Sphinx Use the Theme
 Edit the ``conf.py`` file and make the following setting: ::
 
     html_theme = 'ADCtheme'
+
+Screen Shots
+------------
+
+.. image:: http://github.com/coordt/ADCtheme/blob/master/static/scrn1.png
+
+.. image:: http://github.com/coordt/ADCtheme/blob/master/static/scrn2.png
+
+To Do
+-----
+
+ * Gotta get the javascript working so the Table of Contents is hide-able.
+ * Probably lots of css cleanup.
