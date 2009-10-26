@@ -4,7 +4,7 @@
  */
  h3 {
      color:#000000;
-     font-size:17px;
+     font-size: 17px;
      margin-bottom:0.5em;
      margin-top:2em;
  }
@@ -457,6 +457,7 @@ dl {
 
 dd p {
     margin-top: 0px;
+    font-size: 12px;
 }
 
 dd ul, dd table {
@@ -467,6 +468,7 @@ dd {
     margin-top: 3px;
     margin-bottom: 10px;
     margin-left: 30px;
+    font-size: 12px;
 }
 
 dt:target, .highlight {
@@ -553,7 +555,7 @@ tt {
 tt.descname {
     background-color: transparent;
     font-weight: bold;
-    font-size: 1.2em;
+    font-size: 1em;
 }
 
 tt.descclassname {
@@ -607,7 +609,7 @@ body {
 
 dl.class dt {
     padding: 3px;
-    border-top: 2px solid #999;
+/*    border-top: 2px solid #999;*/
 }
 
 em.property {
@@ -749,9 +751,6 @@ font-style:normal;
 font-variant:normal;
 font-weight:normal;
 line-height:normal;
-}
-li > p {
-display:inline;
 }
 li p {
 margin-top:8px;
