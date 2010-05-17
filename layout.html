@@ -28,6 +28,7 @@
     {%- if prev %}
     <link rel="prev" title="{{ prev.title|striptags }}" href="{{ prev.link|e }}" />
     {%- endif %}
+    <link media="only screen and (max-device-width: 480px)" href="{{ pathto('_static/mobile.css', 1) }}" type="text/css" rel="stylesheet" />
 {%- endblock %}
 {%- block extrahead %} {% endblock %}
 {%- block header %}{% endblock %}
