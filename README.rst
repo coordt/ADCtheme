@@ -40,9 +40,9 @@ If you aren't installing the files directly into your documentation, edit the ``
 Screen Shots
 ------------
 
-.. image:: http://github.com/coordt/ADCtheme/raw/master/static/scrn1.png
+.. image:: https://github.com/coordt/ADCtheme/raw/master/static/scrn1.png
 
-.. image:: http://github.com/coordt/ADCtheme/raw/master/static/scrn2.png
+.. image:: https://github.com/coordt/ADCtheme/raw/master/static/scrn2.png
 
 To Do
 -----
