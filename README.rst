@@ -26,6 +26,7 @@ If you want to include the files directly in the documentation, so another perso
  3. Alter your ``conf.py`` ::
 
         html_theme = 'basic'
+        html_style = 'adctheme.css'
 
     instead of ``'ADCtheme'``.
 
