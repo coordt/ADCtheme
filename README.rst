@@ -5,7 +5,7 @@ How To Install
 Install in Sphinx
 -----------------
 
-Copy this directory into the ``sphinx/templates`` directory where Sphinx is installed. For example, a standard install of sphinx on Mac OS X is at ``/Library/Python/2.6/site-packages/Sphinx-0.6.3-py2.6.egg/``
+Copy this directory into the ``sphinx/themes`` directory where Sphinx is installed. For example, a standard install of sphinx on Mac OS X is at ``/Library/Python/2.6/site-packages/``
 
 Install Somewhere Else
 ----------------------
