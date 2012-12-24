@@ -61,7 +61,7 @@
     {%- endif %}
     {%- endblock %}
     {%- block sidebartoc %}
-	<ul><li class="toctree-l1"><a href="{{ pathto(master_doc) }}">{{ _('Main Page') }}</a></li></ul>
+	<ul><li class="toctree-l1"><a href="{{ pathto(master_doc) }}">{{ _('Table of Contents') }}</a></li></ul>
 	{{ toctree() }}
     {%- endblock %}
     {%- block sidebarrel %}
@@ -112,7 +112,7 @@
           <div class="body">
             {% block body %} {% endblock %}
           </div>
-      {%- if not embedded %}{% if not theme_nosidebar|tobool %} 
+      {%- if not embedded %}{% if not theme_nosidebar|tobool %}
         </div>
       {%- endif %}{% endif %}
       </div>
